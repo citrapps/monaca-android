@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- App Name -->
+    <string name="app_name">Monaca</string>
+    <!-- Strings related to Facebook -->
+    <string name="facebook_app_id">487950192656868</string>
+    <string name="fb_login_protocol_scheme">fb487950192656868</string>
+    <!-- Strings related to Login -->
+    <string name="action_forgot_password">Did you forget your password?</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="action_sign_in_with_google">Sign in with Google</string>
+    <string name="helper_text_email_invalid">Please check your e-mail</string>
+    <string name="helper_text_password_invalid">Please check your password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="toast_password_reset_email_sent">Your password reset mail has been sent to %1$s. If you change the password, other sign-in ways are initialized.</string>
+    <string name="toast_password_reset_email_sent_failed">%1$s</string>
+    <string name="toast_sign_in_failed">%1$s</string>
+    <string name="toast_welcome">Hello! %1$s! Please enjoy communication with new people!</string>
+    <string name="toast_email_not_verified">Now please complete the authentication sent to %1$s and try sign-in again. You have joined the following ways. %2$s.</string>
+</resources>

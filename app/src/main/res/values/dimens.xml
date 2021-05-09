@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Component Margin Set -->
+    <dimen name="component_margin_small">8dp</dimen>
+    <dimen name="component_margin_normal">16dp</dimen>
+    <dimen name="component_margin_large">32dp</dimen>
+    <dimen name="component_margin_huge">64dp</dimen>
+
+    <!-- Button Corner Radius -->
+    <dimen name="button_corner_radius">32dp</dimen>
+</resources>

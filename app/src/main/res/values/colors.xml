@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Black & White Color -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Brand Color -->
+    <color name="aliza_rin">#e74c3c</color>
+    <color name="belize_hole">#2980b9</color>
+    <color name="clouds">#ecf0f1</color>
+    <color name="rosy_highlight">#f7d794</color>
+    <color name="silver">#bdc3c7</color>
+    <color name="summer_time">#f5cd79</color>
+    <color name="creamy_peach">#f3a683</color>
+    <color name="sawtooth_aak">#f19066</color>
+    <color name="baltic_sea">#3d3d3d</color>
+    <color name="shadowed_steel">#4b4b4b</color>
+</resources>
